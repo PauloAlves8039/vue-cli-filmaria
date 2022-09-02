@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <header/>
+    <Header/>
     <router-view/>
   </div>
 </template>
@@ -16,6 +16,12 @@ export default {
 }
 </script>
 
-<style>
-
+<style scoped>
+  #app{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
 </style>
