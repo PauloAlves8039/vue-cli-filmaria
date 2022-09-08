@@ -53,7 +53,7 @@ export default {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #fff;
+  background-color: #FFF;
   margin: 15px;
   padding: 15px;
   border-radius: 5px;
@@ -71,9 +71,9 @@ img {
 
 .lista-filmes article a {
   text-decoration: none;
-  color: #fff;
+  color: #FFF;
   font-size: 25px;
-  background-color: brown;
+  background-color: #A52A2A;
   width: 100%;
   height: 40px;
   margin-top: -30px;

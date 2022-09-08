@@ -18,7 +18,7 @@ export default {
     justify-content: space-around;
     width: 100%;
     height: 60px;
-    background-color: brown;
+    background-color: #A52A2A;
   }
 
   #header a{
@@ -37,4 +37,12 @@ export default {
     border-radius: 5px;
     font-weight: bold;
   }
+
+  button:hover {
+  background: #A52A2A;
+  color: #FFF;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #FFF;
+}
 </style>

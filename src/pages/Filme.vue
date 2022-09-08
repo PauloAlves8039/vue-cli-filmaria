@@ -69,9 +69,9 @@ export default {
 }
 
 h2 {
-  color: #fff;
+  color: #FFF;
   margin-bottom: 0px;
-  background: brown;
+  background: #A52A2A;
   padding: 15px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
@@ -95,8 +95,8 @@ button {
   outline: none;
 }
 button:hover {
-  background: brown;
-  color: #fff;
+  background: #A52A2A;
+  color: #FFF;
 }
 
 a {
@@ -106,6 +106,6 @@ a {
 }
 
 a:hover {
-  color: #fff;
+  color: #FFF;
 }
 </style>

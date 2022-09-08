@@ -42,7 +42,6 @@ export default {
 </script>
 
 <style scoped>
-
 #meus-filmes {
   display: flex;
   flex-direction: column;
@@ -81,8 +80,7 @@ button {
 }
 
 button:hover {
-  background: brown;
-  color: #fff;
+  background: #A52A2A;
+  color: #FFF;
 }
-
 </style>
